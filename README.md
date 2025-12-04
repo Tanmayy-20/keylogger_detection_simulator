@@ -50,7 +50,7 @@ Installation
 3. Clone or download this project folder.
 
    Example using Git:
-   - git clone https://github.com/your-username/keylogger-detection-simulator.git
+   - git clone https://github.com/Tanmayy-20/keylogger-detection-simulator.git
 
 4. Open a terminal in the project folder and create a virtual environment:
 
